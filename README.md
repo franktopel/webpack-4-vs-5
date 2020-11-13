@@ -13,5 +13,5 @@ You can now add features you want to test in `src/features/{{you-name-it}}.js`, 
 
 Once you added a feature, make sure you import your file in `src/entry.js`. Comment the lines for the features you don't want tested.
  
-To test if webpack 4 (through webpack-stream via gulp) supports your feature: `npm run gulp-webpack-4`.
+To test if webpack 4 (through webpack-stream via gulp) supports your feature: `npm run gulp-webpack-4`.  
 To test if webpack 5 supports your feature: `npm run webpack-5`.
